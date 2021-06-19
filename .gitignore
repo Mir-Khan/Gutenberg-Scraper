@@ -1,0 +1,7 @@
+*.txt
+books
+gutenberg_py_scraper/*.json
+gutenberg_py_scraper/settings.py
+gutenberg_py_scraper/__init__.py
+*.json
+gutenberg_py_scraper/__pycache__
